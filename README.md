@@ -1,4 +1,4 @@
-php-tail
+php-tail-f
 ========
 
 tail -f functionality implemented in PHP.
